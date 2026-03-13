@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! I'm Thomas 🚀
+# Hi there! I'm Thomas Tran 🚀
 ### Full-stack Aspirant | Product Thinker | Sprint Learner
 
-I am a developer driven by the question **"Why?"**. Beyond just writing code, I strive to understand how systems—and the world—function. My background in exploring economics, history, and culture gives me a multi-dimensional perspective when solving technical challenges.
+I am a developer driven by the question **"Why?"**. Beyond just writing code, I strive to understand how systems and the world function. My background in exploring economics, history, and culture gives me a multi-dimensional perspective when solving technical challenges.
 
 ---
 
